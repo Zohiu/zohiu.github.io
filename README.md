@@ -28,6 +28,6 @@
 <div align="center">
   <p align="center">Hey! You found my website's github repository.</p>
 
-  <p align="center">Feel free to use literally anything you can find in here. Check the master branch for the actual website.</p>
+  <p align="center">Feel free to use literally anything you can find in here (I mean code ofc. Don't actually take my projects. You can use this as a template or something idc.). Check the master branch for the actual website.</p>
   
 </div>
